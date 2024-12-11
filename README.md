@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JS, SQL, DevTools**
 
-- 👨‍💻 My portfolio here https://github.com/Tala-Veklenko/Portfolio
+- 👨‍💻 You can see my portfolio here https://github.com/Tala-Veklenko/Portfolio
 
 - 📫 How to reach me **natalieveklenko@gmail.com**
   
