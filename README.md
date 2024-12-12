@@ -13,6 +13,7 @@ https://github.com/Tala-Veklenko/Portfolio
   
 ⚡ Fun fact **I'm not an alien** </br>
 </br>
+</br>
 
 ## Connect with me
 <p align="left"> 
