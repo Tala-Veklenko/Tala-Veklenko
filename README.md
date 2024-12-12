@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tala-veklenko&label=Profile%20views&color=0e75b6&style=flat" alt="tala-veklenko" /> </p>
 
-🔭 I’m currently working on [Talk_and_Travel](https://talk-and-travel.online)</br>
+🔭 I’m currently working on **[Talk_and_Travel](https://talk-and-travel.online)**</br>
 
 🌱 I’m currently learning **JS, SQL, DevTools** </br>
 
-👨‍💻 You can see my portfolio here: </br>https://github.com/Tala-Veklenko/Portfolio </br>
+👨‍💻 You can see my portfolio here: </br>
+<p>https://github.com/Tala-Veklenko/Portfolio</p> </br>
   
 ⚡ Fun fact **I'm not an alien** </br>
 
