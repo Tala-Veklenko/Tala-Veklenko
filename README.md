@@ -26,16 +26,11 @@
 
 ### 🛠 Tech Stack
   
-[![API & Automation](https://skills.syvixor.com/api/icons?i=postman,swagger,playwright)](https://github.com/syvixor/skills-icons)  
-
-[![Project&Test Management Tools](https://skills.syvixor.com/api/icons?i=jira,trello,clickup,confluence,git,github)](https://github.com/syvixor/skills-icons)  
-
-[![Web Fundamentals](https://skills.syvixor.com/api/icons?i=css3,html,javascript,json)](https://github.com/syvixor/skills-icons)  
-
-[![Databases](https://skills.syvixor.com/api/icons?i=sql,mysql,dbeaver)](https://github.com/syvixor/skills-icons)  
-
-[![Design Tools](https://skills.syvixor.com/api/icons?i=adobeillustrator,adobephotoshop,figma)](https://github.com/syvixor/skills-icons)  
-
+[![API & Automation](https://skills.syvixor.com/api/icons?i=postman,swagger,playwright)](https://github.com/syvixor/skills-icons)
+[![Project&Test Management Tools](https://skills.syvixor.com/api/icons?i=jira,trello,clickup,confluence,git,github)](https://github.com/syvixor/skills-icons)
+[![Web Fundamentals](https://skills.syvixor.com/api/icons?i=css3,html,javascript,json)](https://github.com/syvixor/skills-icons)
+[![Databases](https://skills.syvixor.com/api/icons?i=sql,mysql,dbeaver)](https://github.com/syvixor/skills-icons)
+[![Design Tools](https://skills.syvixor.com/api/icons?i=adobeillustrator,adobephotoshop,figma)](https://github.com/syvixor/skills-icons)
 [![Operating Systems](https://skills.syvixor.com/api/icons?i=ios,macos)](https://github.com/syvixor/skills-icons)
 
 
@@ -47,9 +42,9 @@ Mobile testing principles <br>
 
 
 ### 🌍 Languages
-- 🇬🇧 English – **B2**  
-- 🇪🇪 Estonian – **A2**  
-- 🇺🇦 Ukrainian – native   
+ 🇬🇧 English – **B2**  
+ 🇪🇪 Estonian – **A2**  
+ 🇺🇦 Ukrainian – native   
 
 
 ### 💼 Portfolio
