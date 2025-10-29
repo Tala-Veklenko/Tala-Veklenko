@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 <br> 
-  I'm Tala Veklenko</h1>
+  I'm Tala </h1>
 <h3 align="center">I'm QA and happy to make the digital world more reliable and user-friendly</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565">
