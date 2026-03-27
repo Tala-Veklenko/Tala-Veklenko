@@ -43,21 +43,7 @@ Mobile testing principles <br>
 
 ## 🚀 Featured Projects
 
-### 1️⃣ E-commerce Website Testing (Pet Project)
-**Description:** Tested a demo e-commerce application covering login, product selection, cart, and checkout flows.  
-**Responsibilities:**  
-- Designed and executed 15+ test cases  
-- Performed exploratory and regression testing  
-- Reported bugs with severity and priority  
-- Conducted API testing via Postman  
-
-**What I learned:** Full STLC, bug reporting, test coverage, edge case identification  
-
-[View Project Repository](link-to-ecommerce-repo)
-
----
-
-### 2️⃣ Booking_CRM System Testing
+### 1️⃣ Booking_CRM System Testing
 **Description:** QA for internal Booking_CRM system handling payments and multi-role functionality (User/Operator/Admin).  
 **Responsibilities:**  
 - Participated in full STLC from requirements to regression testing  
