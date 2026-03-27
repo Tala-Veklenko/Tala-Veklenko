@@ -4,9 +4,9 @@
 
 **Email:** talaveklenko@gmail.com  
 **LinkedIn:** [linkedin.com/in/tala-veklenko](https://linkedin.com/in/tala-veklenko)  
-**GitHub:** [github.com/Tala-Veklenko](https://github.com/Tala-Veklenko)
 
 ---
+
 ### 👩‍💻 About Me
 I’m a Junior QA Engineer with a focus on manual testing and a growing interest in test automation.  
 I have hands-on experience working on pet projects and real systems, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting.  
