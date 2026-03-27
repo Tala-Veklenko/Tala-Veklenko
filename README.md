@@ -2,17 +2,16 @@
   I'm Tala </h1>
 <h3 align="center">I'm QA and happy to make the digital world more reliable and user-friendly</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/08379040ed04c695c89593ee75845b3bcfd057b7a5c3e945d8dd18fa9d74c33b/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tala-veklenko&label=Profile%20views&color=0e75b6&style=flat" alt="tala-veklenko" /> </p
+**Email:** talaveklenko@gmail.com  
+**LinkedIn:** [linkedin.com/in/tala-veklenko](https://linkedin.com/in/tala-veklenko)  
+**GitHub:** [github.com/Tala-Veklenko](https://github.com/Tala-Veklenko)
 
 ---
 ### 👩‍💻 About Me
+I’m a Junior QA Engineer with a focus on manual testing and a growing interest in test automation.  
+I have hands-on experience working on pet projects and real systems, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting.  
 
-🔍 I test with care, communicate clearly, and love when everything just works.  
-🌍 Open to remote collaboration.  
-🎯 Currently working on [Agape](https://www.agapeukraine.com/)  
-📚 I’m currently learning: JS, DevTools, SQL  
-⚡ Fun fact **I'm not an alien**
+I enjoy analyzing applications, identifying defects, and improving product quality to deliver a better user experience.
 
 
 ### 🧰 QA Tools & Methodologies  
@@ -40,22 +39,65 @@ Understanding of defect life cycle <br>
 Basic security testing (SQL Injection, XSS awareness) <br>
 Mobile testing principles <br>
 
+---
 
-### 🌍 Languages
- 🇬🇧 English – **B2**  
- 🇪🇪 Estonian – **A2**  
- 🇺🇦 Ukrainian – native   
+## 🚀 Featured Projects
 
+### 1️⃣ E-commerce Website Testing (Pet Project)
+**Description:** Tested a demo e-commerce application covering login, product selection, cart, and checkout flows.  
+**Responsibilities:**  
+- Designed and executed 15+ test cases  
+- Performed exploratory and regression testing  
+- Reported bugs with severity and priority  
+- Conducted API testing via Postman  
 
-### 💼 Portfolio
+**What I learned:** Full STLC, bug reporting, test coverage, edge case identification  
 
-Here are some of my personal and collaborative works:
+[View Project Repository](link-to-ecommerce-repo)
 
-🔗 [📁 My QA Portfolio](https://github.com/Tala-Veklenko/Portfolio)
+---
 
+### 2️⃣ Booking_CRM System Testing
+**Description:** QA for internal Booking_CRM system handling payments and multi-role functionality (User/Operator/Admin).  
+**Responsibilities:**  
+- Participated in full STLC from requirements to regression testing  
+- Tested payment workflows, authentication, and role-based access control  
+- Wrote structured test cases, checklists, and bug reports  
+- Used Jira, ClickUp, TestRail, Postman, SQL, DevTools  
+- Conducted functional, regression, exploratory, and UI testing  
 
-### 📫 Contact Me
+**Artifacts:**  
+- [Test Cases](link-to-bookingcrm-testcases)  
+- [Checklists](link-to-bookingcrm-checklists)  
+- [Bug Reports](link-to-bookingcrm-bugreports)  
+- [Postman Collection](link-to-bookingcrm-postman)
 
-[![LinkedIn](https://skills.syvixor.com/api/icons?i=linkedin)](https://linkedin.com/in/tala-veklenko)
-[![Gmail](https://skills.syvixor.com/api/icons?i=gmail)](mailto:talaveklenko@gmail.com)
+**What I learned:** Multi-role system testing, payment workflow validation, API testing, database validation
 
+---
+
+## 📂 Other Test Documentation
+- [Additional Test Cases](link)  
+- [Additional Bug Reports](link)  
+- [Additional Checklists](link)  
+- [Other Postman Collections](link)
+
+---
+
+## 🎓 Education & Certifications
+**Postman: The Complete Guide — REST API Testing**
+**Software Development Academy** — Software Tester (Sep 2023 – Dec 2023)  
+**Kharkiv National University of Internal Affairs** — Master’s in Computer Software Engineering (2007 – 2014)  
+
+---
+
+## 🌐 Languages
+- Ukrainian — Native  
+- English — Upper-Intermediate  
+- Estonian — Elementary
+
+---
+
+## 📫 Contact Me
+- **Email:** talaveklenko@gmail.com  
+- **LinkedIn:** [linkedin.com/in/tala-veklenko](https://linkedin.com/in/tala-veklenko)  
