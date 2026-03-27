@@ -55,7 +55,7 @@ Mobile testing principles <br>
 **Artifacts:**  
 - [Test Cases](link-to-bookingcrm-testcases)  
 - [Checklists](link-to-bookingcrm-checklists)  
-- [Bug Reports](link-to-bookingcrm-bugreports)  
+- [Bug Reports](https://docs.google.com/spreadsheets/d/1nP8SRikWiZRDQ8U_e685QJtSKlIGsFeBAujW8juyOT8/edit?usp=sharing)
 - [Postman Collection](link-to-bookingcrm-postman)
 
 **What I learned:** Multi-role system testing, payment workflow validation, API testing, database validation
