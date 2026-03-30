@@ -6,7 +6,7 @@
 **LinkedIn:** [linkedin.com/in/tala-veklenko](https://linkedin.com/in/tala-veklenko)  
 **Portfolio** 
 
----
+<hr style="border: 0.5px solid #ccc;">
 
 ### 👩‍💻 About Me
 Hi. I’m Tala and I'm a Junior QA Engineer with a growing focus on test automation, while maintaining a strong foundation in manual testing.
@@ -15,25 +15,28 @@ I have hands-on experience working on pet projects, covering the full Software T
 
 I enjoy analyzing applications, identifying defects, and improving product quality to deliver a better user experience.
 
+<hr style="border: 0.5px solid #ccc;">
 
-### 🧰 QA Tools & Methodologies  
+### Experience
+August 2025- January 2026 Booking_CRM system
+Januar 2025 - August 2025 Agape Ukraine — Website for a Rehabilitation Center.
 
-🧪 **Testing Artifacts:** Test Cases, Checklists, Bug Reports  
-⚙️ **Processes:** SDLC, STLC, Defect Life Cycle  
-🔍 **Testing Types:** Functional, Regression, Smoke, API, UI, Cross-browser  
-📊 **Test Management Tools:** Jira, Trello, ClickUp  
-💬 **Documentation & Collaboration:** Confluence, GitHub Wiki 
+<hr style="border: 0.5px solid #ccc;">
 
+### 🧰 Testing Skills  
 
-### 🛠 Tech Stack
-  
-[![API & Automation](https://skills.syvixor.com/api/icons?i=postman,swagger,playwright)](https://github.com/syvixor/skills-icons)
-[![Project&Test Management Tools](https://skills.syvixor.com/api/icons?i=jira,trello,clickup,confluence,git,github)](https://github.com/syvixor/skills-icons)
-[![Web Fundamentals](https://skills.syvixor.com/api/icons?i=css3,html,javascript,json)](https://github.com/syvixor/skills-icons)
-[![Databases](https://skills.syvixor.com/api/icons?i=sql,mysql,dbeaver)](https://github.com/syvixor/skills-icons)
-[![Design Tools](https://skills.syvixor.com/api/icons?i=adobeillustrator,adobephotoshop,figma)](https://github.com/syvixor/skills-icons)
-[![Operating Systems](https://skills.syvixor.com/api/icons?i=ios,macos)](https://github.com/syvixor/skills-icons)
+**Testing Artifacts:** Test Cases, Checklists, Bug Reports  
+**Processes:** SDLC, STLC, Defect Life Cycle  
+**Testing Types:** Functional, Regression, Smoke, API, UI, Cross-browser 
 
+### 🛠 Tools & Technologies
+
+**Test Management & Documentation:** Jira, ClickUp, Trello, Confluence, Google Sheets
+**API Testing:** Postman, Swagger
+**Browser & Debugging:** Chrome DevTools
+**Basic Automation & Web:** HTML, CSS, JavaScript, JSON, Playwright (basic)
+**Databases:** SQL, MySQL, DBeaver
+**Design Tools:** Abobe Illustrator, Adobe Photoshop, Figma
 
 ### 🚀 Bonus Skills:
 Agile / Scrum methodology <br>
@@ -41,14 +44,16 @@ Understanding of defect life cycle <br>
 Basic security testing (SQL Injection, XSS awareness) <br>
 Mobile testing principles <br>
 
----
+<hr style="border: 0.5px solid #ccc;">
 
 ## 🎓 Education & Certifications
-**Postman: The Complete Guide — REST API Testing**
-**Software Development Academy** — Software Tester (Sep 2023 – Dec 2023)  
++ [POSTMA: The complete guide - The REST API testing](https://www.udemy.com/home/my-courses/learning/) **UDEMY**
+
++ [JAVA API path](https://testautomationu.applitools.com/setting-a-foundation-for-successful-test-automation/) 
+**Software Development Academy** — Software Tester (Sep 2024 – Dec 2024)  
 **Kharkiv National University of Internal Affairs** — Master’s in Computer Software Engineering (2007 – 2014)  
 
----
+<hr style="border: 0.5px solid #ccc;">
 
 ## 🌐 Languages
 - Ukrainian — Native  
