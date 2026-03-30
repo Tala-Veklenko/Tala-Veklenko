@@ -9,8 +9,9 @@
 ---
 
 ### 👩‍💻 About Me
-I’m a Junior QA Engineer with a focus on manual testing and a growing interest in test automation.  
-I have hands-on experience working on pet projects and real systems, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting.  
+Hi. I’m Tala and I'm a Junior QA Engineer with a growing focus on test automation, while maintaining a strong foundation in manual testing.
+
+I have hands-on experience working on pet projects, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting. I have developed my skills through courses, self-study, and consistent practice.
 
 I enjoy analyzing applications, identifying defects, and improving product quality to deliver a better user experience.
 
