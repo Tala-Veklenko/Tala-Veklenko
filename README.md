@@ -4,6 +4,7 @@
 
 **Email:** talaveklenko@gmail.com  
 **LinkedIn:** [linkedin.com/in/tala-veklenko](https://linkedin.com/in/tala-veklenko)  
+**Portfolio** 
 
 ---
 
@@ -41,35 +42,6 @@ Mobile testing principles <br>
 
 ---
 
-## 🚀 Featured Projects
-
-### 1️⃣ Booking_CRM System Testing
-**Description:** QA for internal Booking_CRM system handling payments and multi-role functionality (User/Operator/Admin).  
-**Responsibilities:**  
-- Participated in full STLC from requirements to regression testing  
-- Tested payment workflows, authentication, and role-based access control  
-- Wrote structured test cases, checklists, and bug reports  
-- Used Jira, ClickUp, TestRail, Postman, SQL, DevTools  
-- Conducted functional, regression, exploratory, and UI testing  
-
-**Artifacts:**  
-- [Test Cases](link-to-bookingcrm-testcases)  
-- [Checklists](link-to-bookingcrm-checklists)  
-- [Bug Reports](https://docs.google.com/spreadsheets/d/1KVzvKsm6cRyT7dL5saFmz1WtByDIVWEpoTEuCz060b0/edit?usp=sharing)
-- [Postman Collection](link-to-bookingcrm-postman)
-
-**What I learned:** Multi-role system testing, payment workflow validation, API testing, database validation
-
----
-
-## 📂 Other Test Documentation
-- [Additional Test Cases](link)  
-- [Additional Bug Reports](link)  
-- [Additional Checklists](link)  
-- [Other Postman Collections](link)
-
----
-
 ## 🎓 Education & Certifications
 **Postman: The Complete Guide — REST API Testing**
 **Software Development Academy** — Software Tester (Sep 2023 – Dec 2023)  
@@ -81,9 +53,3 @@ Mobile testing principles <br>
 - Ukrainian — Native  
 - English — Upper-Intermediate  
 - Estonian — Elementary
-
----
-
-## 📫 Contact Me
-- **Email:** talaveklenko@gmail.com  
-- **LinkedIn:** [linkedin.com/in/tala-veklenko](https://linkedin.com/in/tala-veklenko)  
