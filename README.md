@@ -6,11 +6,10 @@
 **Portfolio:** [View my projects](https://github.com/Tala-Veklenko/Portfolio/blob/main/README.md)
 
 ## 👩‍💻 About Me
-Hi. I’m Tala and I'm a Junior QA Engineer with a growing focus on test automation, while maintaining a strong foundation in manual testing.
-
-I have hands-on experience working on pet projects, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting. I have developed my skills through courses, self-study, and consistent practice.
-
-I enjoy analyzing applications, identifying defects, and improving product quality to deliver a better user experience.
+Hi. I’m Tala and I'm a Junior+ QA Engineer with hands-on experience in manual and API testing across commercial and volunteer projects.
+Experienced in testing complex web applications, including CRM systems with payment integrations and role-based access control. Have experience working on project, covering the full Software Testing Life Cycle (STLC) — from requirements analysis to test execution and reporting.
+Skilled in functional, regression, and API testing using Postman and Browser DevTools. Strong focus on identifying critical issues, improving test coverage, and ensuring product quality.
+Currently expanding knowledge in test automation and JavaScript for deeper testing and debugging.
 
 
 ## 💼 Experience
